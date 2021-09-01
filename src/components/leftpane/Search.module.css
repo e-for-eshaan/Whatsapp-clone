@@ -1,0 +1,15 @@
+.search {
+    min-height: 35px;
+    border-radius: 30px;
+    padding-left: 8px;
+    background: #323739;
+    border: none;
+    width: 90%;
+    outline: none;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 7px;
+}

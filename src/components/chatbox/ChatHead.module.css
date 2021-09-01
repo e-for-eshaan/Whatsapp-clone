@@ -1,0 +1,22 @@
+.dp {
+    border-radius: 50%;
+    background-color: grey;
+    height: 40px;
+    width: 40px;
+}
+
+.container {
+    background-color: #1f2325;
+    padding: 10px;
+    margin: 0;
+    display: flex;
+}
+
+.name {
+    color: #E1E2E3;
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15px;
+    font-weight: lighter;
+}

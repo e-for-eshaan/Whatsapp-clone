@@ -1,0 +1,32 @@
+.container {
+    max-width: 100%;
+    padding: 5px;
+    display: flex;
+}
+
+.recieved {
+    background-color: #2A2F32;
+    max-width: 50%;
+    text-align: left;
+    border-radius: 7px;
+    padding: 8px;
+    position: relative;
+    line-height: 1.15em;
+}
+
+.message {
+    font-size: 0.85em;
+    color: #E7E7E8;
+    margin: 0;
+}
+
+.time {
+    color: #A6A8AB;
+    padding: 0;
+    margin: 0;
+    display: block;
+    text-align: right;
+    font-size: 0.6em;
+    right: 6px;
+    bottom: 4px;
+}
