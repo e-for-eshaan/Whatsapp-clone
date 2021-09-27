@@ -3,8 +3,7 @@
     flex-direction: column;
     background-color: #131C21;
     width: 300px;
-    max-height: 100vh;
-    min-height: 100vh;
+    height: 100vh;
     overflow: hidden;
     display: inline-block;
 }
@@ -37,7 +36,7 @@ hr {
     background-color: #131C21;
     overflow: hidden;
     overflow-y: scroll;
-    max-height: 83vh;
+    height: 83vh;
 }
 
 .last {
