@@ -14,7 +14,7 @@
         width: 78%;
     }
     
-    img {
+    .img {
         background-color: grey;
         height: 50px;
         width: 50px;
@@ -33,12 +33,14 @@
         color: #9FA2A5;
         overflow: hidden;
         min-width: 80%;
+        overflow: hidden;
     }
     
     .time {
         font-size: smaller;
         margin-bottom: 5px;
         color: #9FA2A5;
+        align-self: flex-end;
     }
     
     .notif {

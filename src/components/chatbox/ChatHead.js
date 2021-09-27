@@ -1,12 +1,6 @@
 import classes from "./ChatHead.module.css";
 
-import dp1 from "./../images/dp1.jpg";
-import dp2 from "./../images/dp2.jpg";
-import dp3 from "./../images/dp3.jpg";
-import dp4 from "./../images/dp4.jpg";
-import dp5 from "./../images/dp5.jpg";
-import dp6 from "./../images/dp6.jpg";
-import dp7 from "./../images/dp7.jpg";
+import images from "./../images/images.data";
 
 const ChatHead = (props) => {
   
@@ -14,40 +8,40 @@ const ChatHead = (props) => {
     let  x;
     switch (name) {
         case "Eshaan":
-        x = dp1;
+        x = images.dp1;
         break;
         case "Andrew":
-        x = dp2;
+        x = images.dp2;
         break;
         case "Liza":
-        x = dp3;
+        x = images.dp3;
         break;
         case "Jacob":
-        x = dp4;
+        x = images.dp4;
         break;
         case "Mustafa":
-        x = dp5;
+        x = images.dp5;
         break;
         case "Aaron":
-        x = dp6;
+        x = images.dp6;
         break;
         case "Esky":
-        x = dp7;
+        x = images.dp7;
         break;
         case "Kesh":
-        x = dp3;
+        x = images.dp3;
         break;
         case "Natalie":
-        x = dp4;
+        x = images.dp4;
         break;
         case "Timothee":
-        x = dp5;
+        x = images.dp5;
         break;
         case "Lee":
-        x = dp6;
+        x = images.dp6;
         break;
         case "casy":
-        x = dp7;
+        x = images.dp7;
         break;
     }
     return x;

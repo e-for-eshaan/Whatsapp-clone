@@ -2,17 +2,13 @@ import Head from "./Head";
 import classes from "./LeftPane.module.css";
 import Search from "./Search";
 import Threads from "./Threads";
-import dp1 from "./../images/dp1.jpg";
-import dp2 from "./../images/dp2.jpg";
-import dp3 from "./../images/dp3.jpg";
-import dp4 from "./../images/dp4.jpg";
-import dp5 from "./../images/dp5.jpg";
-import dp6 from "./../images/dp6.jpg";
-import dp7 from "./../images/dp7.jpg";
+import images from "./../images/images.data";
+import data from "../data/data.data";
 
 
 const LeftPane = (props) => {
-  const x = "seen";
+  const x = "sent";
+  const y = "recieved"
   return (
     <div className={classes.container}>
       <Head />
@@ -20,115 +16,113 @@ const LeftPane = (props) => {
       <hr />
       <div className={classes.chats}>
         <Threads
-          address={dp1}
+          address={images.dp1}
           name="Eshaan"
-          time="7:23 PM"
-          message="Hey there all"
+          time={data.Eshaan[data.Eshaan.length-1].time}
+          message={data.Eshaan[data.Eshaan.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
-        <hr />
         <Threads
-          address={dp2}
+          address={images.dp2}
           name="Andrew"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Andrew[data.Andrew.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp3}
+          address={images.dp3}
           name="Liza"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Liza[data.Liza.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp4}
+          address={images.dp4}
           name="Jacob"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Jacob[data.Jacob.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp5}
+          address={images.dp5}
           name="Mustafa"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Mustafa[data.Mustafa.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp6}
+          address={images.dp6}
           name="Aaron"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Aaron[data.Aaron.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp7}
+          address={images.dp7}
           name="Esky"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Esky[data.Esky.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp3}
+          address={images.dp3}
           name="Kesh"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Kesh[data.Kesh.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp4}
+          address={images.dp4}
           name="Natalie"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Natalie[data.Natalie.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp5}
+          address={images.dp5}
           name="Timothee"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Timothee[data.Timothee.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp6}
+          address={images.dp6}
           name="Lee"
           time="7:23 PM"
-          message="Hey there "
+          message={data.Lee[data.Lee.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
         <Threads
-          address={dp7}
+          address={images.dp7}
           name="casy"
           time="7:23 PM"
-          message="Hey there "
+          message={data.casy[data.casy.length-1].text}
           notif={x}
           clickfunc={props.clicker}
         />
         <hr />
-        <div className={classes.last}></div>
       </div>
     </div>
   );

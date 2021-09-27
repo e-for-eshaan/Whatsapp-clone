@@ -4,6 +4,11 @@
     display: flex;
 }
 
+.image {
+    border-radius: 3px;
+    max-width: 100%;
+}
+
 .sent {
     background-color: #056162;
     max-width: 50%;

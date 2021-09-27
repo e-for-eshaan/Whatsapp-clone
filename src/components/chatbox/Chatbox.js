@@ -2,18 +2,7 @@ import React from "react";
 import classes from "./Chatbox.module.css";
 import Recieved from "./Recieved";
 import Sent from "./Sent";
-import Aaron from "../data/Aaron.data";
-import Eshaan from "../data/Eshaan.data";
-import Andrew from "../data/Andrew.data";
-import Liza from "../data/Liza.data";
-import Jacob from "../data/Jacob.data";
-import Mustafa from "../data/Mustafa.data";
-import Esky from "../data/Esky.data";
-import Kesh from "../data/Kesh.data";
-import Natalie from "../data/Natalie.data";
-import Timothee from "../data/Timothee.data";
-import Lee from "../data/Lee.data";
-import casy from "../data/casy.data";
+import data from "../data/data.data";
 import ScrollToBottom from "react-scroll-to-bottom";
 
 const Chatbox = (props) => {
@@ -21,41 +10,42 @@ const Chatbox = (props) => {
     let x;
     switch (name) {
       case "":
-        x = Kesh;
+        x = data.Kesh;
       case "Eshaan":
-        x = Eshaan;
+        x = data.Eshaan;
         break;
       case "Andrew":
-        x = Andrew;
+        x = data.Andrew;
         break;
       case "Liza":
-        x = Liza;
+        x = data.Liza;
         break;
       case "Jacob":
-        x = Jacob;
+        x = data.Jacob;
         break;
       case "Mustafa":
-        x = Mustafa;
+        x = data.Mustafa;
         break;
       case "Aaron":
-        x = Aaron;
+        x = data.Aaron;
         break;
       case "Esky":
-        x = Esky;
+        x = data.Esky;
         break;
       case "Kesh":
-        x = Kesh;
+        x = data.Kesh;
+        break;
       case "Natalie":
-        x = Natalie;
+        x = data.Natalie;
         break;
       case "Timothee":
-        x = Timothee;
+        x = data.Timothee;
         break;
       case "Lee":
-        x = Lee;
+        x = data.Lee;
         break;
       case "casy":
-        x = casy;
+        x = data.casy;
 
       default:
         break;
@@ -64,13 +54,13 @@ const Chatbox = (props) => {
   }
   let nameTag=nameToArray(props.text);
   return (
-    <ScrollToBottom className={classes.container}>
+    <ScrollToBottom className={classes.container} initialScrollBehavior='auto'>
       <div>
         {nameTag.map((x) => {
           if (x.type === "sent") {
-            return <Sent text={x.text} time={x.time} />;
+            return <Sent text={x.text} time={x.time} image={x.image} src={x.src}/>;
           } else {
-            return <Recieved text={x.text} time={x.time} />;
+            return <Recieved text={x.text} time={x.time} image={x.image} src={x.src}/>;
           }
         })}
       </div>

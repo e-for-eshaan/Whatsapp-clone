@@ -14,6 +14,10 @@
     line-height: 1.15em;
 }
 
+.image {
+    width: 100%;
+}
+
 .message {
     font-size: 0.85em;
     color: #E7E7E8;
