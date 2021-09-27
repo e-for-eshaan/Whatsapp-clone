@@ -10,55 +10,67 @@ import Jacob from "../data/Jacob.data";
 import Mustafa from "../data/Mustafa.data";
 import Esky from "../data/Esky.data";
 import Kesh from "../data/Kesh.data";
-import { useState } from "react";
-import ReactScrollableFeed from "react-scrollable-feed";
-import ScrollToBottom from 'react-scroll-to-bottom';
+import Natalie from "../data/Natalie.data";
+import Timothee from "../data/Timothee.data";
+import Lee from "../data/Lee.data";
+import casy from "../data/casy.data";
+import ScrollToBottom from "react-scroll-to-bottom";
 
 const Chatbox = (props) => {
-  var nameTag = Aaron;
-  const [namerender, setnamerender] = useState("Eshaan");
-  // setnamerender(nameTag)
-  // {
-  //   namerender=nameTag
-  // }
   function nameToArray(name) {
+    let x;
     switch (name) {
+      case "":
+        x = Kesh;
       case "Eshaan":
-        nameTag = Eshaan;
+        x = Eshaan;
         break;
       case "Andrew":
-        nameTag = Andrew;
+        x = Andrew;
         break;
       case "Liza":
-        nameTag = Liza;
+        x = Liza;
         break;
       case "Jacob":
-        nameTag = Jacob;
+        x = Jacob;
         break;
       case "Mustafa":
-        nameTag = Mustafa;
+        x = Mustafa;
         break;
       case "Aaron":
-        nameTag = Aaron;
+        x = Aaron;
         break;
       case "Esky":
-        nameTag = Esky;
+        x = Esky;
         break;
       case "Kesh":
-        nameTag = Kesh;
+        x = Kesh;
+      case "Natalie":
+        x = Natalie;
+        break;
+      case "Timothee":
+        x = Timothee;
+        break;
+      case "Lee":
+        x = Lee;
+        break;
+      case "casy":
+        x = casy;
+
+      default:
         break;
     }
-    return nameTag;
+    return x;
   }
+  let nameTag=nameToArray(props.text);
   return (
-    <ScrollToBottom className={classes.container} >
-
+    <ScrollToBottom className={classes.container}>
       <div>
-        {nameToArray(props.namegen).map((x) => {
+        {nameTag.map((x) => {
           if (x.type === "sent") {
-            return <Sent text={x.text} />;
+            return <Sent text={x.text} time={x.time} />;
           } else {
-            return <Recieved text={x.text} />;
+            return <Recieved text={x.text} time={x.time} />;
           }
         })}
       </div>

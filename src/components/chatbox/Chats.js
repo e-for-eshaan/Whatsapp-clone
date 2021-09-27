@@ -6,8 +6,8 @@ import Chatbox from './Chatbox'
 const Chats = (props) => {
     return (
         <div className={classes.container}>
-            <ChatHead text={props.text}/>
-            <Chatbox />
+            <ChatHead text={props.namegen} url='src\components\leftpane\dp1.jpg'/>
+            <Chatbox text={props.namegen} func={props.rending}/>
             <SendMessage />
         </div>
     )

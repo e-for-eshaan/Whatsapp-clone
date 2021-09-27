@@ -1,8 +1,10 @@
 .dp {
     border-radius: 50%;
+    overflow: hidden;
     background-color: grey;
     height: 40px;
     width: 40px;
+    font-size: 0.8em;
 }
 
 .container {

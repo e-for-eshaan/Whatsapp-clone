@@ -2,9 +2,8 @@ import React from "react";
 import classes from "./Threads.module.css";
 
 const Threads = (props) => {
-  var x=props.address
   return (
-    <div onClick={()=>props.clickfunc(props.name)} className={classes.container}>
+    <div onClick={()=>{props.clickfunc(props.name)}} className={classes.container}>
         <img src={props.address} className={props.image} alt="dp" />
         <div className={classes.text}> 
         <div className={classes.left}>

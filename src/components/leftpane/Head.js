@@ -1,5 +1,5 @@
 import classes from './Head.module.css'
-import myDP from './dp_my.jpg'
+import myDP from './../images/dp_my.jpg'
 const Head = () => {
     return (
         <div className={classes.container}>

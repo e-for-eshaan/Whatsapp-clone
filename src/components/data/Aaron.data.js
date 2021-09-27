@@ -1,4 +1,4 @@
-export default [
+var Aaron=[
   {
     time: "7:23 PM",
     type: "sent",
@@ -160,3 +160,4 @@ export default [
     text: "Aaron recieved quae  asperiores voluptatum accusantium ",
   },
 ];
+export default Aaron

@@ -8,5 +8,5 @@
 .container {
     background-color: #2A2F32;
     padding: 10px;
-    border-right: white;
+    border-right: 3px #394045 solid;
 }

@@ -2,13 +2,13 @@ import Head from "./Head";
 import classes from "./LeftPane.module.css";
 import Search from "./Search";
 import Threads from "./Threads";
-import dp1 from "./dp1.jpg";
-import dp2 from "./dp2.jpg";
-import dp3 from "./dp3.jpg";
-import dp4 from "./dp4.jpg";
-import dp5 from "./dp5.jpg";
-import dp6 from "./dp6.jpg";
-import dp7 from "./dp7.jpg";
+import dp1 from "./../images/dp1.jpg";
+import dp2 from "./../images/dp2.jpg";
+import dp3 from "./../images/dp3.jpg";
+import dp4 from "./../images/dp4.jpg";
+import dp5 from "./../images/dp5.jpg";
+import dp6 from "./../images/dp6.jpg";
+import dp7 from "./../images/dp7.jpg";
 
 
 const LeftPane = (props) => {
