@@ -27,3 +27,7 @@ a {
     align-self: center;
     margin: auto;
 }
+
+.btn {
+    opacity: 0.3;
+}

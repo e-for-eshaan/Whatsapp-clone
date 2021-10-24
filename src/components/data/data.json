@@ -1,0 +1,3077 @@
+[
+  {
+    "name": "Aaron",
+    "dp": "../images/dp1.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent ccusantium cumque qui voluptate fugit eaque",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent fugit eaque",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved fugit eaque",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quae  asperiores voluptatum accusantium ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Aaron Sent cumque quae ipsum ",
+        "image": false,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Aaron recieved quaesa  asperiores voluptatum accusantium ",
+        "image": true,
+        "src": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Andrew",
+    "dp": "../images/dp2.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Andrew recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Andrew recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Andrew recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Andrew recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Andrew recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Andrew recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Andrew Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Andrew recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      }
+    ]
+  },
+  {
+    "name": "casy",
+    "dp": "../images/dp3.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "casy recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "casy Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "casy recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      }
+    ]
+  },
+  {
+    "name": "Eshaan",
+    "dp": "../images/dp4.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Eshaan Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Eshaan recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      }
+    ]
+  },
+  {
+    "name": "Esky",
+    "dp": "../images/dp5.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Esky recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Esky Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      }
+    ]
+  },
+  {
+    "name": "Jacob",
+    "dp": "../images/dp6.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Jacob recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Jacob Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      }
+    ]
+  },
+  {
+    "name": "Kesh",
+    "dp": "../images/dp7.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Kesh Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Kesh recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      }
+    ]
+  },
+  {
+    "name": "Lee",
+    "dp": "../images/dp4.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Lee recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      }
+    ]
+  },
+  {
+    "name": "Liza",
+    "dp": "../images/dp2.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Lisa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Lisa Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      }
+    ]
+  },
+  {
+    "name": "Mustafa",
+    "dp": "../images/dp3.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Mustafa recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Mustafa Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      }
+    ]
+  },
+  {
+    "name": "Natalie",
+    "dp": "../images/dp4.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Natalie recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Natalie Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      }
+    ]
+  },
+  {
+    "name": "Timothee",
+    "dp": "../images/dp5.jpg",
+    "msg": [
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent ccusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:24 PM",
+        "type": "recieved",
+        "text": "Timothee recieved quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent cumque quae ipsum molestiae consectetur asperiores voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent cumque quae ipsum ",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved quae  asperiores voluptatum accusantium ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent molestiae consectetur asperi qui voluptate fugit eaque",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": true
+      },
+      {
+        "time": "7:23 PM",
+        "type": "recieved",
+        "text": "Timothee recieved quae ipsum molestiae c voluptatum accusantium cumque qui voluptate fugit eaque",
+        "src": "https://picsum.photos/536/354",
+        "image": false
+      },
+      {
+        "time": "7:23 PM",
+        "type": "sent",
+        "text": "Timothee Sent cumque quae ipsum ",
+        "src": "https://source.unsplash.com/user/c_v_r",
+        "image": false
+      }
+    ]
+  }
+]
